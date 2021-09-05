@@ -9,3 +9,16 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# About me
+Hello everyone! My name is Yi Man, a first year PhD student at Department of Biostatistics. I am from Shanghai, China. I recently graduated from UC-Berkeley major in Mathematics and Statistics. During undergraduate years, I participated in research projects related to Bioengineering and Biostatistics. My current research interests are RNA sequencing and machine learning. I hope to learn more about R and various packages that would be helpful in my future research career.
+  
+# Five Fun Facts
+1. I started to cook a lot since quarantine.  
+2. I do not eat eggplants.  
+3. I love to watch all kinds of movies in my spare time. My favorite movie so far is Contact.  
+4. I am not familiar with Github and Git although it was taught in one of my undergraduate classes.  
+5. I like to play piano and flute when I am stressed out with school work although I am not very good at them.  
+  
+# Webpage  
+https://ed.ted.com/  
+I like to listen to random videos on TED Ed to learn some random knowledge.
